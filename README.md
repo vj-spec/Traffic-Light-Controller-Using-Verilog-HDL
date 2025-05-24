@@ -30,7 +30,7 @@ Save and Document Results:
 Capture screenshots of the waveform and save the simulation logs to include in your report.
 
 Verilog Code for Traffic Light Controller
-
+```
 // traffic_light_controller.v
 module traffic_light_controller (
     input wire clk,
@@ -84,7 +84,7 @@ module traffic_light_controller (
         endcase
     end
 endmodule
-
+```
 OUTPUT:
 ![traffic_light](https://github.com/user-attachments/assets/73004787-7325-48c8-bc37-db0ffcce2207)
 
