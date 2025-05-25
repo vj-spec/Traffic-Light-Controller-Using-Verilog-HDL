@@ -133,6 +133,9 @@ module traffic_light_controller_tb;
 
 endmodule
 ```
+## Output
+![image](https://github.com/user-attachments/assets/4eb9b8e9-cec3-40dc-a15d-4ba709f14030)
+
 
 Conclusion
 In this experiment, a traffic light controller was successfully designed and simulated using Verilog HDL. The design controlled the traffic lights to switch between Green, Yellow, and Red in a cyclic manner based on timing intervals. The testbench verified that the traffic lights followed the correct sequence and timing. The simulation results confirm the correct functionality of the traffic light controller, demonstrating the effectiveness of Verilog HDL in designing FSM-based controllers for real-world applications.
